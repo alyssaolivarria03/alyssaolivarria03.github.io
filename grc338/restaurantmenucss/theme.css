@@ -1,0 +1,42 @@
+/* CSS DOCUMENT */
+
+ body {
+  background-color: #BBDED6;
+} 
+h1{
+    padding:1em 1em 0em 1em;
+    color: #135589;
+    text-align: center;
+    font-family: Serif;
+    font-size: 4em;
+}
+h2{
+    color: #23395d;
+    text-align: center;
+    font-family: Serif;
+    font-size: 2.5em;
+}
+/*categories*/
+h3{
+    padding:.5em 1em 2em 1em;
+    color: #2A93D5;
+    text-align: center;
+    font-family: serif;
+    font-size: 1.75em;
+}
+/*name of dish*/
+h4{
+    color: #1c2e4a;
+    font-family: sans-serif;
+}
+/*descrition and price*/
+p{
+    color: 5f6b76;
+    font-family: sans-serif;
+    font-size: 1em;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin:0em 0em 0em 2em;
+}
