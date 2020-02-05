@@ -1,0 +1,79 @@
+/*CSS DOCUMENT*/
+
+body {
+  background-color: #FFF8DC;
+} 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+/*Johnsonville...*/
+h1{
+    padding:1em 1em 0em 1em;
+    color: #8B4513;
+    text-align: center;
+    font-family: Serif;
+    font-size: 4em;
+}
+/*Family favorite...*/
+h2{
+    color: #F4A460;
+    text-align: center;
+    font-family: cursive;
+    font-style:italic;
+    font-size: 2.5em;
+}
+/*ingredients and directions*/
+h3{
+    padding:.5em 1em 0 1em;
+    color: #FFA500;
+    text-align: center;
+    font-family: serif;
+    font-size: 1.75em;
+}
+/*description*/
+p{
+    color: #802b00;
+    font-family: sans-serif;
+    font-size: 1.2em;
+    width: 80%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+    list-style-type: circle;
+    padding: 0;
+    margin:0em 0em 0em 2em;
+}
+
+div.ingredients{
+    width:35%;
+    float: left;
+    line-height: 1.4em;
+}
+
+div.directions{
+    width:65%;
+    float: left;
+    line-height: 1.4em;
+}
+div.maincontent{
+    width:60%;
+    margin:auto;
+    font-family: sans-serif;
+}
+footer{
+    float: none;
+    clear: both;
+    font-family: cursive;
+    text-align:left;
+    
+}
+
+
+
