@@ -39,17 +39,19 @@ a{
     color:#99310E;
     font-size: 1.8em;
 }
-ul{
+
+
+.links ul{
     list-style-type: none;
-    float:left;
-    display: inline;
+    text-align: center;
     font-family: sans-serif;
+    
 }
 .links li{
-    font-size: .8em;
-    float:left;
+    font-size: 1em;
     padding: 1em 1em 1em 1em;
     font-family: serif;
+    display: inline;
    
 }
 div.foodmenu ul{
