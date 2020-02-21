@@ -1,1 +1,63 @@
-img {width: 100%; }
+html{
+    background:#fff8dc;
+}
+div.welcome{
+    max-width: 43em;
+    align-content: center;
+}
+h1{
+    padding:1em 1em 0em 1em;
+    color: #663300;
+    text-align: center;
+    font-family: Serif;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+a{
+    text-decoration: none;
+    color:#B8860B;
+}
+ul{
+    list-style-type: none;
+    float:left;
+    display: inline;
+    font-family: sans-serif;
+}
+.links li{
+    font-size: 1em;
+    float:left;
+    padding: 1em 1em 1em 1em;
+    font-family: serif;
+   
+}
+div.foodmenu ul{
+    float:none;
+}
+p{
+    color:#000000;
+    padding: 0em 1.2em 0em 1.2em;
+    line-height: 1.3em;
+    text-indent: 1em;
+    font-size: 1em;
+    
+    
+}
+div.headers{
+    font-family: cursive;
+    text-align: center;
+    font-size: 2.3em;
+    color: #8B4513;
+    
+}
+h3{
+    font-size: 2em;
+    margin: 0em;
+}
+h4{
+    font-size: 1.3em;
+}
