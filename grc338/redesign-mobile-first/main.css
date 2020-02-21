@@ -2,9 +2,10 @@ html{
     background:#fff8dc;
 }
 div.welcome{
-    max-width: 43em;
+    max-width: 80%;
     align-content: center;
     clear: both;
+    font-size: 1.8em;
 }
 h1{
     padding:1em 1em 0em 1em;
