@@ -1,6 +1,10 @@
 html{
     background:#fff8dc;
 }
+div.welcome{
+    max-width: 39em;
+    align-content: center;
+}
 h1{
     padding:1em 1em 0em 1em;
     color: #8B4513;
@@ -25,13 +29,18 @@ ul{
     font-family: sans-serif;
 }
 .links li{
-    font-size: .8em;
+    font-size: 1em;
     float:left;
     padding: 1em 1em 1em 1em;
+   
 }
 div.foodmenu ul{
     float:none;
 }
 .home p{
     color:663300;
+    
+}
+h2{
+    text-align: center;
 }
