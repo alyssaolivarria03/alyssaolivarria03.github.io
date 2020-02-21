@@ -2,61 +2,96 @@ html{
     background:#fff8dc;
 }
 div.welcome{
-    max-width: 43em;
+    max-width: 80%;
     align-content: center;
+    clear: both;
+    font-size: 1.8em;
+    margin-left: auto;
+  margin-right: auto;
 }
 h1{
-    padding:1em 1em 0em 1em;
-    color: #8B4513;
+    padding:1em 1em 1em 1em;
+    color: #663300;
     text-align: center;
     font-family: Serif;
+    font-size: 1.5em;
 }
 
+div.logo{
+    max-width: 40%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 80%;
+  float: none;
+  clear: both;
+  padding: 0em 0em 1em 0em;
+  
 }
+
 a{
+    padding: 2em 0em 0em 0em;
     text-decoration: none;
-    color:#B8860B
+    color:#99310E;
+    font-size: 1.8em;
+    font-family: serif;
 }
-ul{
+
+
+.links ul{
     list-style-type: none;
-    float:left;
-    display: inline;
+    text-align: center;
     font-family: sans-serif;
+    
 }
 .links li{
     font-size: 1em;
-    float:left;
     padding: 1em 1em 1em 1em;
     font-family: serif;
+    display: inline;
    
 }
 div.foodmenu ul{
     float:none;
 }
 p{
-    color:663300;
-    padding: 0em 1.2em 0em 1.2em;
+    color:#805213;
+    padding: 1em 1em 1em 0em;
     line-height: 1.3em;
     text-indent: 1em;
-    font-size: 1.3em;
+    font-size: 1em;
+    font-family: sans-serif;
+     max-width: 80%;
+    margin-left: auto;
+  margin-right: auto;
+    clear: both;
     
     
 }
 .headers{
-    font-family: cursive;
+    font-family: 'Playball', ;
     text-align: center;
-    font-size: 2.3em;
+    font-size: 2em;
+    color: #A66B30;
+    float: none;
+    clear: both;
     
 }
 h3{
     font-size: 2em;
     margin: 0em;
+    text-align:center;
+    
 }
 h4{
-    font-size: 1.7em
+    font-size: 1.3em;
+}
+.descriptions p{
+    margin-bottom: none;
+    
 }
