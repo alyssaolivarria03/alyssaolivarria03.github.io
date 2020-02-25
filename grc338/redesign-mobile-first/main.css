@@ -73,6 +73,7 @@ p{
     margin-left: auto;
   margin-right: auto;
     clear: both;
+    text-align:center;
     
     
 }
@@ -92,12 +93,15 @@ h3{
     font-size: 2em;
     margin: 0em;
     text-align:center;
+    font-family: sans-serif;
+    color:#663300
     
 }
 h4{
     font-size: 1.3em;
     color:#663300;
     list-style-type: none;
+    text-align:center;
     
 }
 .descriptions p{
