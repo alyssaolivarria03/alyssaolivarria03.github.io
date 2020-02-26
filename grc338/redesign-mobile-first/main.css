@@ -65,8 +65,6 @@ li{
 }
 p{
     color:#805213;
-    padding: 1em 1em 1em 0em;
-    line-height: 1.3em;
     font-size: 1em;
     font-family: sans-serif;
      max-width: 80%;
@@ -109,6 +107,7 @@ h4{
     
 }
 .descriptions p{
-    padding: 0em 0em 0em 0em;
+    padding: none;
     
 }
+
