@@ -1,0 +1,118 @@
+html{
+    background:#fff8dc;
+}
+div.welcome{
+    max-width: 80%;
+    align-content: center;
+    clear: both;
+    font-size: 1.8em;
+    margin-left: auto;
+  margin-right: auto;
+}
+h1{
+    padding:1em 1em 1em 1em;
+    color: #663300;
+    text-align: center;
+    font-family: Serif;
+    font-size: 1.7em;
+    max-width: 60%;
+    margin-left: auto;
+  margin-right: auto;
+}
+
+div.logo{
+    max-width: 40%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  float: none;
+  clear: both;
+  padding: 0em 0em 1em 0em;
+  
+}
+
+a{
+    padding: 2em 0em 0em 0em;
+    text-decoration: none;
+    color:#99310E;
+    font-size: 1.8em;
+    font-family: serif;
+}
+
+
+.links ul{
+    list-style-type: none;
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+.links li{
+    font-size: .9em;
+    padding: 1em 1em 1em 1em;
+    font-family: serif;
+    display: inline;
+    font-size: 1em;
+   
+}
+div.foodmenu ul{
+    float:none;
+}
+li{
+    list-style-type: none;
+}
+p{
+    color:#805213;
+    font-size: 1em;
+    font-family: sans-serif;
+     max-width: 50%;
+    margin-left: auto;
+  margin-right: auto;
+    clear: both;
+    text-align:left;
+    padding: 1em 0em 1em 0em;
+    
+    
+}
+.headers{
+    font-family: 'Playball', ;
+    text-align: center;
+    font-size: 2em;
+    color: #A66B30;
+    float: none;
+    clear: both;
+    
+}
+h2{ 
+    font-family: 'Playball';
+    font-size: 2em;
+}
+h3{
+    font-size: 2em;
+    text-align:center;
+    font-family: sans-serif;
+    color:#663300;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em 1em 1em 1em;
+    
+}
+h4{
+    font-size: 1em;
+    color:#663300;
+    list-style-type: none;
+    text-align:center;
+    padding: .5em 0em 0em 0em;
+    
+    
+}
+.price p{
+    text-align: center;
+    padding: 0em 0em 1em 0em
+}
+
