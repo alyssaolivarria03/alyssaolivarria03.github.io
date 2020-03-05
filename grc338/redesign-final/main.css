@@ -2,20 +2,22 @@ html{
     background:#fff8dc;
 }
 div.welcome{
-    max-width: 80%;
+    
+    max-width: 40em;
     align-content: center;
     clear: both;
-    font-size: 1.8em;
+    font-size: 2em;
     margin-left: auto;
   margin-right: auto;
+    
 }
 h1{
     padding:1em 1em 1em 1em;
     color: #663300;
     text-align: center;
-    font-family: Serif;
-    font-size: 1.7em;
-    max-width: 60%;
+    font-family: 'Playfair Display', serif;
+    font-size: 2em;
+    max-width: 20em;
     margin-left: auto;
   margin-right: auto;
 }
@@ -30,7 +32,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 60%;
   float: none;
   clear: both;
   padding: 0em 0em 1em 0em;
@@ -38,24 +40,22 @@ img {
 }
 
 a{
-    padding: 2em 0em 0em 0em;
     text-decoration: none;
     color:#99310E;
-    font-size: 1.8em;
-    font-family: serif;
+    font-size: 1.5em;
 }
 
 
 .links ul{
     list-style-type: none;
     text-align: center;
-    font-family: sans-serif;
+    
     
 }
 .links li{
-    font-size: .9em;
+    font-size: .5em;
     padding: 1em 1em 1em 1em;
-    font-family: serif;
+    font-family: 'EB Garamond', serif;
     display: inline;
     font-size: 1em;
    
@@ -76,21 +76,18 @@ p{
     clear: both;
     text-align:left;
     padding: 1em 0em 1em 0em;
+    font-family: 'Proza Libre', sans-serif; 
     
     
 }
-.headers{
-    font-family: 'Playball', ;
+
+h2{ 
+    font-family: 'Playball', cursive;
     text-align: center;
     font-size: 2em;
     color: #A66B30;
     float: none;
     clear: both;
-    
-}
-h2{ 
-    font-family: 'Playball';
-    font-size: 2em;
 }
 h3{
     font-size: 2em;
@@ -108,7 +105,7 @@ h4{
     list-style-type: none;
     text-align:center;
     padding: .5em 0em 0em 0em;
-    font-family: sans-serif;
+    font-family: 'Proza Libre', sans-serif;
     
     
 }
