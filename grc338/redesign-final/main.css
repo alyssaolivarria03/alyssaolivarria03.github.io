@@ -41,7 +41,7 @@ img {
 
 a{
     text-decoration: none;
-    color:#99310E;
+    color:#fff8dc;
     font-size: 1.5em;
 }
 
@@ -49,6 +49,7 @@ a{
 .links ul{
     list-style-type: none;
     text-align: center;
+    background-color: #A66B30;
     
     
 }
@@ -69,7 +70,16 @@ li{
 p{
     color:#805213;
     font-size: 1em;
-    font-family: sans-serif;
+     max-width: 50%;
+    clear: both;
+    text-align:left;
+    padding: 1em 0em 1em 0em;
+    font-family: 'Proza Libre', sans-serif;
+    
+}
+.mainparagraphs p{
+    color:#805213;
+    font-size: 1em;
      max-width: 50%;
     margin-left: auto;
   margin-right: auto;
@@ -84,15 +94,15 @@ p{
 h2{ 
     font-family: 'Playball', cursive;
     text-align: center;
-    font-size: 2em;
+    font-size: 3.2em;
     color: #A66B30;
     float: none;
     clear: both;
 }
 h3{
-    font-size: 2em;
+    font-size: 2.3em;
     text-align:center;
-    font-family: sans-serif;
+     font-family: 'Proza Libre', sans-serif;
     color:#663300;
     margin-left: auto;
     margin-right: auto;
@@ -100,17 +110,14 @@ h3{
     
 }
 h4{
-    font-size: 1em;
+    font-size: 1.5em;
     color:#663300;
     list-style-type: none;
-    text-align:center;
+    text-align:left;
     padding: .5em 0em 0em 0em;
     font-family: 'Proza Libre', sans-serif;
     
     
 }
-.price p{
-    text-align: center;
-    padding: 0em 0em 1em 0em
-}
+
 
